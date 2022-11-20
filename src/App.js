@@ -3,16 +3,16 @@ import Hero from './components/Hero'
 import Product from './components/Product'
 import Nav from './components/Nav'
 import Footer from './components/Footer'
-import Card from './components/Card'
-import Or from './components/Or'
+import Modal from './components/Modal'
+import ModalBtn from './components/ModalBtn'
 
 function App() {
     return (
         <>
+            <Modal />
             <Nav />
             <Hero />
             <Product />
-
             <Footer />
         </>
     )

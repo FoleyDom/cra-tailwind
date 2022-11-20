@@ -1,3 +1,5 @@
+import ModalBtn from './ModalBtn'
+
 function Hero() {
     return (
         <div
@@ -11,7 +13,7 @@ function Hero() {
                         Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi
                         exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.
                     </p>
-                    <button className="btn btn-primary">Get Started</button>
+                    <ModalBtn />
                 </div>
             </div>
         </div>
