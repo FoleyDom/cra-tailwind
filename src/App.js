@@ -4,7 +4,6 @@ import Product from './components/Product'
 import Nav from './components/Nav'
 import Footer from './components/Footer'
 import Modal from './components/Modal'
-import ModalBtn from './components/ModalBtn'
 
 function App() {
     return (

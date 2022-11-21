@@ -34,7 +34,9 @@ function Nav() {
                 </div>
             </div>
             <div className="navbar-center">
-                <a className="btn btn-ghost normal-case text-xl">cra - tailwind - daisyUI</a>
+                <a href="#" className="btn btn-ghost normal-case text-xl">
+                    NEPA Flag Football League
+                </a>
             </div>
             <div className="navbar-end"></div>
         </div>
